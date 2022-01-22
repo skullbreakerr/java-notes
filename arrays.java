@@ -18,7 +18,7 @@ public class arrays {
 
 }
 
-// :::::: A R R A Y S O R T I N G ::::::
+// :::::: A R R A Y   S O R T I N G ::::::
 // public class arrays {
 // public static void main(String[] args) {
 
@@ -40,7 +40,7 @@ public class arrays {
 
 // }
 
-// ~~~~~~~~ A R R A Y D E C L A R A T I O N S ~~~~~~~~
+// ~~~~~~~~ A R R A Y   D E C L A R A T I O N S ~~~~~~~~
 // public class arrays {
 // public static void main(String[] args) {
 // // Another way of array declaration in java
@@ -51,7 +51,7 @@ public class arrays {
 // }
 // }
 
-// ```````` 2 D A R R A Y D E C L A R A T I O N S ````````
+// ```````` 2 D  A R R A Y   D E C L A R A T I O N S ````````
 // public class arrays
 // {
 // public static void main(String[] args)
